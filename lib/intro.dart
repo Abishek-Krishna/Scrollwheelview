@@ -146,7 +146,6 @@ class intro extends StatelessWidget {
               borderRadius: BorderRadius.circular(25),
             )
           ),
-
         ) ,
       ),
     );
